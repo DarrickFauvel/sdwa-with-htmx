@@ -1,7 +1,7 @@
 {
   "name": "htmx-demo",
   "scripts": {
-    "dev": "bun run --hot src/index.ts"
+    "dev": "bun run --watch src/server.tsx"
   },
   "dependencies": {
     "hono": "^4.7.4"
